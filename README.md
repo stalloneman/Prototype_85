@@ -1,0 +1,1 @@
+The purpose of this project is to test the limits of embedded systems by attempting to implement and functional operating system, or atleast an operating system simulator, on an ESP32 dev board module. 
